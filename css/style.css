@@ -1,0 +1,19 @@
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.section {
+    height: 55%;
+    padding: 5% 0px;
+}
+
+.thumbnail {
+    text-align: center;
+    font-size: 4.9em;
+}
+
+.pad-5 {
+    padding-top: 5%;
+}
